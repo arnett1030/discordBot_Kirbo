@@ -4,12 +4,12 @@ public class Test extends ModuleBase {
 
 	public Test(MessageReceivedEvent event) {
 		super(event);
-		// TODO Auto-generated constructor stub
+		// TODO Auto-generated constructor stub 
 	}
 
 	@Override
 	public void process() {
-		channel.sendMessage("Hello " + user.getName()).queue();
+		channel.sendMessage("Hello! ur gay" + user.getName()).queue();
 		channel.sendMessage("You entered,\t" + comnand).queue();
 
 	}
