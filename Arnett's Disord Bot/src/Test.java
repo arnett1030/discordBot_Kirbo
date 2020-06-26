@@ -9,7 +9,7 @@ public class Test extends ModuleBase {
 
 	@Override
 	public void process() {
-		channel.sendMessage("Hello! you are gay " + user.getName()).queue();
+		channel.sendMessage("Hello! You are gay " + user.getName()).queue();
 		channel.sendMessage("You entered,\t" + comnand).queue();
 
 	}
