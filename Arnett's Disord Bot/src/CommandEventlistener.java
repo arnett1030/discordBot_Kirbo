@@ -24,7 +24,7 @@ import net.dv8tion.jda.api.hooks.ListenerAdapter;
 	        }else if (content.startsWith(prefix + "game" )){
 	        	new game(event);
 			}
-	        else if (content.startsWith(prefix + "test")) {
+	        else if (content.startsWith(prefix + "")) {
 	        	
 	        }
 	        

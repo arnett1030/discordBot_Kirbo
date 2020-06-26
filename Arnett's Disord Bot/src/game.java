@@ -15,7 +15,7 @@ public class game extends ModuleBase {
 		Random rand  = new Random();
 		Scanner input = new Scanner(System.in);
 		
-		String multiGames[] = {"League of Legends","Osu","","","","",""};
+		String multiGames[] = {"League of Legends","Osu"," ","","","",""};
 		String singleGames[] = {};
 		boolean lcv = true; // Loop control variable 
 		String ans;
