@@ -11,6 +11,7 @@ import net.dv8tion.jda.api.hooks.ListenerAdapter;
 	        Message message = event.getMessage();
 	        String content = message.getContentRaw();
 	        MessageChannel channel = event.getChannel();
+	        
 	        char prefix ='!';
 	        
 	        if (content.equals(prefix + "ping"))
@@ -20,10 +21,10 @@ import net.dv8tion.jda.api.hooks.ListenerAdapter;
 	        	new Help(event);
 	        }else if (content.startsWith(prefix + "Hello")) {
 				new Hello(event);
-	        }else if (content.startsWith(prefix + "")){
-	        
+	        }else if (content.startsWith(prefix + "game" )){
+	        	new game(event);
 			}
-	        else if (content.startsWith(prefix + "")) {
+	        else if (content.startsWith(prefix + "test")) {
 	        	
 	        }
 	        
