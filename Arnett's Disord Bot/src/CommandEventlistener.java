@@ -20,8 +20,8 @@ import net.dv8tion.jda.api.hooks.ListenerAdapter;
 	        	new Help(event);
 	        }else if (content.startsWith(prefix + "Hello")) {
 				new Hello(event);
-	        }else if (content.startsWith(prefix + "")){
-	        
+	        }else if (content.startsWith(prefix + "test")){
+	        	new Test(event);
 			}
 	        else if (content.startsWith(prefix + "")) {
 	        	

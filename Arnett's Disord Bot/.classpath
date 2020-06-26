@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-14.0.1">
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JDK 1.14">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="C:/Users/Matthew/git/discordBot_Kirbo/Arnett&apos;s Disord Bot/JDA-4.1.1_101-withDependencies.jar" sourcepath="C:/Users/Matthew/git/discordBot_Kirbo/Arnett&apos;s Disord Bot/JDA-4.1.1_101-sources.jar">
+	<classpathentry kind="lib" path="C:/Users/taeya/git/discordBot_Kirbo/Arnett&apos;s Disord Bot/JDA-4.1.1_101-withDependencies.jar" sourcepath="C:/Users/taeya/git/discordBot_Kirbo/Arnett&apos;s Disord Bot/JDA-4.1.1_101-sources.jar">
 		<attributes>
-			<attribute name="javadoc_location" value="jar:file:/C:/Users/Matthew/git/discordBot_Kirbo/Arnett&apos;s%20Disord%20Bot/JDA-4.1.1_101-javadoc.jar!/"/>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/taeya/git/discordBot_Kirbo/Arnett&apos;s%20Disord%20Bot/JDA-4.1.1_101-javadoc.jar!/"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
