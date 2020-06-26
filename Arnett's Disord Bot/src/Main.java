@@ -5,7 +5,7 @@ public class Main {
 	{
 		try {
 			
-	    JDA api = new JDABuilder("hello").build();
+	    JDA api = new JDABuilder("hello ").build();
 	    api.addEventListener(new CommandEventlistener());
 	    
 	    System.out.println("System Has Started");
