@@ -6,7 +6,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="C:/Users/Matthew/git/discordBot_Kirbo/Arnett&apos;s Disord Bot/JDA-4.1.1_101-withDependencies.jar" sourcepath="C:/Users/Matthew/git/discordBot_Kirbo/Arnett&apos;s Disord Bot/JDA-4.1.1_101-sources.jar">
+	<classpathentry kind="lib" path="C:/Users/taeya/git/discordBot_Kirbo/Arnett&apos;s Disord Bot/JDA-4.1.1_101-withDependencies.jar" sourcepath="C:/Users/Matthew/git/discordBot_Kirbo/Arnett&apos;s Disord Bot/JDA-4.1.1_101-sources.jar">
 		<attributes>
 			<attribute name="javadoc_location" value="jar:file:/C:/Users/Matthew/git/discordBot_Kirbo/Arnett&apos;s%20Disord%20Bot/JDA-4.1.1_101-javadoc.jar!/"/>
 		</attributes>
