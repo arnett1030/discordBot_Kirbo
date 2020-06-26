@@ -28,7 +28,7 @@ public class game extends ModuleBase {
 			channel.sendMessage(comnand).queue();
 			
 			
-			if (comnand == "!1") {
+			if (comnand == "!2") {
 				lcv = false; 
 				
 			}
