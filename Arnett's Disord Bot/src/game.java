@@ -24,7 +24,7 @@ public class game extends ModuleBase {
 		
 		do {
 			channel.sendTyping();
-			//channel.sendMessage("How many people are in your party.").queue();
+			channel.sendMessage("How many people are in your party.").queue();
 			channel.sendMessage(comnand).queue();
 			
 			

@@ -23,13 +23,11 @@ import net.dv8tion.jda.api.hooks.ListenerAdapter;
 				new Hello(event);
 	        }else if (content.startsWith(prefix + "game" )){
 	        	new game(event);
+	        }else if (content.startsWith(prefix + "test")){
+	        	new Test(event);
 			}
 	        else if (content.startsWith(prefix + "")) {
-	        	
 	        }
-	        
-	        
-	        
-	  
+	    
 	   }
 	  }
